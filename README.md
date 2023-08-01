@@ -20,7 +20,6 @@ One of the highlights of this implementation is the inclusion of a user location
 # 📁 Repository Structure:
 - `src`: Contains the Java source code for the Mapbox implementation and user location indicator functionality.
 - `res`: Includes any resources used in the project, such as map styles, icons, and images.
-- `examples`: Provides example implementations and use cases to help you get started quickly.
 
 # 🚀 Get Started:
 To use this Mapbox Java implementation with a user location indicator in your project, simply clone the repository and follow our comprehensive documentation in the `README.md` file. We have included step-by-step instructions, code samples, and guidelines to get you up and running in no time.
