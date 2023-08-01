@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mapbox</string>
+    <string name="mapbox_access_token">PLACE_YOUR_TOKEN_HERE</string>
+</resources>
